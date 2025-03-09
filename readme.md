@@ -31,10 +31,10 @@
 
 ## Stats
 
-![github trophies](https://github-profile-trophy.vercel.app/?username=priyanshu4705)
+![github trophies](https://github-profile-trophy.vercel.app/?username=prixsri)
 
-![languages used](https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu4705&show_icons=true&locale=en&layout=compact)
+![languages used](https://github-readme-stats.vercel.app/api/top-langs?username=prixsri&show_icons=true&locale=en&layout=compact)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=priyanshu4705&show_icons=true&locale=en)
+![github stats](https://github-readme-stats.vercel.app/api?username=prixsri&show_icons=true&locale=en)
 
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu4705&)
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=prixsri&)
