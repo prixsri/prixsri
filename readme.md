@@ -13,7 +13,8 @@
 
 ## Experience
 
-- Data Engineer / BI Developer as Contractor for PepsiCo | Software Engineer - I at MAQ Software [July, 2023 - Present]
+- MS Fabrics Data Engineer | Consultant - Deloitte, India [October, 2025 - Present]
+- Data Engineer / BI Developer as Contractor for PepsiCo | Software Engineer - I at MAQ Software [July, 2023 - October, 2025]
 - Data Engineer / BI Developer as Contractor for PepsiCo | Associate Software Engineer at MAQ Software [January, 2023 - July, 2023]
 - Software Developer Intern at [Dakoo - The Super App](https://dakoo.app) [October, 2022 - December, 2022]
 
