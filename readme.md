@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Priyanshu Srivastava** ![profile view count](https://komarev.com/ghpvc/?username=priyanshu4705&label=Profile%20views&color=0e75b6&style=flat)
 
-    - 23 | 💻 Software Engineer I | 🏢 MAQ Software | 🎒 GLBITM collage | AKTU university
+    - 25 | 💻 Consultant | 🏢 Deloitte, India | 🎒 GLBITM collage | AKTU university
     - Working as a Data Engineer, BI Developer and Software Developer
     - from Noida, India
     - 💜 to code with ☕ and 🎵
